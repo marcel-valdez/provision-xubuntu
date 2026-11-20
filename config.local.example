@@ -1,0 +1,6 @@
+# Machine-local overrides for provision-xubuntu (copy to config.local; git-ignored).
+# You can also place this file at ~/.config/provision-xubuntu/config.local
+# or pass values via environment variables / CLI flags (which take precedence).
+
+# Latitude:Longitude for Redshift (example: San Francisco)
+# REDSHIFT_LOCATION="37.7749:-122.4194"
